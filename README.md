@@ -4,4 +4,4 @@ Core Expertise: Deeply skilled in high-throughput sequence analysis, RNAseq pipe
 
 Key Projects: Comprehensive meta-analysis of CRISPR and gene editing datasets, high-resolution de novo transcriptome assembly, and in-depth viral protein localization studies, integrating complex data insights to illuminate disease mechanisms.
 
-Objective: To leverage computational precision to unlock new understandings of disease progression, advancing bioinformatics research in oncology and genomics.
+I aim  To leverage computational precision to unlock new understandings of disease progression, advancing bioinformatics research in oncology and genomics.
