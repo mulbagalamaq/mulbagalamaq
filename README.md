@@ -1,13 +1,8 @@
-👋 Hey! I'm Aymen, currently pursuing a Master's in Bioinformatics at Northeastern University, specializing in computational and systems biology. My journey has been deeply rooted in clinical genomics and data science, where I thrive on turning complex biological data into actionable insights.
 
-Core Expertise: I've honed my skills in high-throughput sequence analysis and RNAseq pipelines, not to mention my knack for predictive modeling. I’m pretty handy with Python and R, especially with libraries like Pandas, TensorFlow, and Scikit-Learn, all of which help me tackle big bioinformatics challenges and machine learning projects.
+Hey there! I'm Aymen, wrapping up my Master's in Bioinformatics at Northeastern University with a focus on computational and systems biology. My academic and professional journey is deeply anchored in clinical genomics and data science, where I’ve developed a passion for making sense of complex biological data and translating it into meaningful insights.
 
-Key Projects: I've taken the lead on several exciting projects, including a comprehensive meta-analysis of CRISPR and gene editing datasets, high-resolution de novo transcriptome assembly, and detailed studies on viral protein localization. Each project has sharpened my ability to integrate and illuminate complex data, revealing intricate disease mechanisms.
+**What I Bring:** Over time, I’ve sharpened my expertise in high-throughput sequencing workflows, RNA-seq analysis, and CRISPR data interpretation. My toolbox includes Python and R, with extensive use of libraries like Pandas, TensorFlow, and Scikit-Learn to tackle problems that intersect bioinformatics and machine learning. Predictive modeling and data visualization are where I thrive the most.
 
-My Goal: I'm all about using computational precision to unlock new insights into disease progression, with a particular focus on pushing forward bioinformatics research in oncology and genomics. My aim is to innovate and inspire in the field, making a tangible impact on how we understand and treat diseases.
+**Projects That Drive Me**: I've had the chance to lead some impactful projects—ranging from meta-analyses of CRISPR datasets to de novo transcriptome assembly and viral protein localization studies. Each of these projects pushed me to integrate complex datasets and uncover the finer details of disease mechanisms. These experiences have solidified my commitment to pushing boundaries in computational biology.
 
-
-
-
-
-
+My ultimate goal is to use bioinformatics to unravel the complexities of disease progression, especially in oncology and genomics. I aim to contribute to research that bridges computational precision with real-world impact, whether it’s through discovering novel insights or building tools that transform how we approach human health.
