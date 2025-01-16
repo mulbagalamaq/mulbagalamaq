@@ -15,7 +15,7 @@ I’m **Aymen** (pronounced *aye-men mak sooood*), a Bioinformatics enthusiast a
 - Worked collaboratively on **NGS data pipelines** with cross-functional teams 🧪  
 - Published and presented findings in bioinformatics and genomics research 📑  
 
-** Currently learning / Passionate about :**  
+**Currently learning / Passionate about :**  
 - Advancing **AI/ML applications** in genomics to solve complex biological problems 🚀  
 - Exploring **spatial transcriptomics** and computational neuroscience to understand neurodevelopmental diseases 🌌  
 
