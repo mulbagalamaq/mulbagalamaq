@@ -9,7 +9,7 @@ I’m **Aymen** (pronounced *aye-men mak sooood*), a Bioinformatics enthusiast a
 
 **Master’s Graduate in Bioinformatics @ Northeastern University**  
 - **Head of Bioinformatics** for the **Graduate Biotech-Bioinfo Association (GBBA)**  
-- Contributor to cutting-edge projects in **CRISPR Digenome-seq** and **RNA-seq analysis**  
+- Contributor to  projects in **CRISPR Digenome-seq** and **RNA-seq analysis**  
 
 **Scientific Background:**  
 - Worked collaboratively on **NGS data pipelines** with cross-functional teams 🧪  
