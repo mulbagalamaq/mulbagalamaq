@@ -1,23 +1,7 @@
 # Life is so short, but DNA is so long.....
 
 **Welcome!**  
-I’m **Aymen** (pronounced *aye-men*), a Bioinformatics enthusiast and Data Science professional, merging genomics 🧬, computational biology 💻, and machine learning 🤖 to uncover the molecular stories behind biological data.
-
----
-
-## About Me  
-
-**Master’s Graduate in Bioinformatics @ Northeastern University**  
-- **Head of Bioinformatics** for the **Graduate Biotech-Bioinfo Association (GBBA)**  
-- Contributor to  projects in **CRISPR Digenome-seq** and **RNA-seq analysis**  
-
-**Scientific Background:**  
-- Worked collaboratively on **NGS data pipelines** with cross-functional teams 🧪  
-- Published and presented findings in bioinformatics and genomics research 📑  
-
-**Currently learning / Passionate about :**  
-- Advancing **AI/ML applications** in genomics to solve complex biological problems 🚀  
-- Exploring **spatial transcriptomics** and computational neuroscience to understand neurodevelopmental diseases 🌌  
+I’m **Aymen** (pronounced *aye-men*), a Bioinformatics enthusiast and Data Science professional, merging genomics , computational biology , and machine learning  to uncover the molecular stories behind biological data.
 
 ---
 
@@ -25,7 +9,7 @@ I’m **Aymen** (pronounced *aye-men*), a Bioinformatics enthusiast and Data Sci
 
 - **Bioinformatics & Data Analysis:** Integrating computational tools for biological discovery  
 - **CRISPR Data Analysis:** Streamlining workflows for Digenome-seq and off-target analysis  
-- **Lifelong Learner:** Continuously building expertise in bioinformatics and AI applications  
+
 
 ---
 
@@ -43,4 +27,4 @@ I’m **Aymen** (pronounced *aye-men*), a Bioinformatics enthusiast and Data Sci
 
 *"We Don’t Rise To Our Expectations, But Fall To Our Level of Training"*  
 
-Explore my repositories, connect with me to discuss genomics, bioinformatics, or the latest in computational biology! 🌟  
+
