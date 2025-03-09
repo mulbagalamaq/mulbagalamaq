@@ -1,6 +1,6 @@
 # Life is so short, but DNA is so long.....
 
-**Hello !**  
+**Hello!**  
 I’m **Aymen** (pronounced *aye-men*), a Bioinformatics enthusiast and Data Science professional, merging genomics, computational biology, and machine learning to uncover the molecular stories behind biological data.
 
 ---
