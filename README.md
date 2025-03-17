@@ -25,6 +25,4 @@ I’m **Aymen** (pronounced *aye-men*), a Bioinformatics enthusiast and Data Sci
 
 ---
 
-*"We Don’t Rise To Our Expectations, But Fall To Our Level of Training"*  
-
 
