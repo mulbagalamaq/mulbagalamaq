@@ -8,7 +8,7 @@ I’m **Aymen** (pronounced *aye-men*), a Bioinformatics enthusiast and Data Sci
 ## What I Do  
 
 - **Bioinformatics & Data Analysis:** Integrating computational tools for biological discovery  
-- **CRISPR Data Analysis:** Streamlining workflows for Digenome-seq and Various off-target analyses  
+
 
 
 ---
