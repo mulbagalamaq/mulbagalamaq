@@ -7,7 +7,7 @@ I’m **Aymen** (pronounced *aye-men*), a Bioinformatics enthusiast and Data Sci
 
 ## What I Do  
 
-- **Bioinformatics & Data Analysis:** Integrating computational tools for biological discovery  
+- **Bioinformatics & Data Analysis** 
 
 
 
