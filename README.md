@@ -4,7 +4,7 @@
 I’m **Aymen** (pronounced *aye-men*), I am a Bioinformatician with experience in high-dimensional biological data analysis (single-cell RNA-seq, CRISPR-edited NGS),
 statistical ML modeling, and collaborative research.
 
-I have experience developing reproducible pipelines (Nextflow, Snakemake), interactive tools/dashboards (R Shiny, Streamlit), and leveraging cloud platforms (AWS EC2, S3) for scalable analyses. Currently learning to integrate multi-omics data and fine-tune ML Genomic models
+I have experience developing reproducible pipelines (Nextflow, Snakemake), interactive tools/dashboards (R Shiny, Streamlit), and leveraging cloud platforms (AWS EC2, S3) for scalable analyses. Currently learning to integrate multi-omics data and fine-tune ML genomic models
 
 
 
